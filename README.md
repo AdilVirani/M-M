@@ -1,0 +1,1 @@
+##This CLI Tool is used to convert MongoDB queries to MySQL.oo
